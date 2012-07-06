@@ -1,3 +1,12 @@
+/**
+ * Created with IntelliJ IDEA.
+ * User: alexandr.tkachuk
+ * Date: 05.07.12
+ * Time: 17:29
+ * To change this template use File | Settings | File Templates.
+ */
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
